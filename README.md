@@ -1,4 +1,4 @@
-## Assessment repository for Applied Statistics module
+# Assessment repository for Applied Statistics module
 
 ***
 Module: Applied Statistics with lecturer Dr Ian McLoughlin
@@ -17,7 +17,7 @@ This repository contains two jupyter notebooks for assessment -
 2. project.jpynb - contains code for the project which is an 
 
 
-## running the code 
+## Installation   
 
 Note all data (in both tasks and project) is linked using relative paths to the data folder in the repository. E.g. 
 ``current_directory = os.getcwd()`` gets the current directory the jupyter notebook is saved and 
@@ -60,3 +60,13 @@ import seaborn as sns
 import random 
 import os
 from scipy.stats import norm
+
+
+# Usage
+
+
+
+
+# Dependencies 
+
+

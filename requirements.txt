@@ -1,0 +1,22 @@
+Python packages required to run the code.
+
+for project 
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import random 
+from PIL import Image
+import os
+
+
+for tasks 
+
+import numpy as np 
+import pandas as pd 
+import matplotlib.pyplot as plt 
+import seaborn as sns 
+import random 
+import os
+from scipy.stats import norm
