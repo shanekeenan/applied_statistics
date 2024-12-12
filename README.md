@@ -12,9 +12,10 @@ Author: Shane Keenan
 
 This repository contains two jupyter notebooks for assessment - 
 
-1. tasks.jpynb - contains answers to the five tasks detailed in the 
+1. tasks.jpynb - contains solutions and workings to the four tasks.  
 
-2. project.jpynb - contains code for the project which is an 
+2. project.jpynb - contains code and write up for the project. 
+
 
 
 ## Installation   
